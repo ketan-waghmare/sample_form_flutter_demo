@@ -25,7 +25,7 @@ class _FormScreenState extends State<FormScreen> {
           child: Column(
             children: [
               Image.asset(
-                "images/avtar.jpg",
+                "images/avtar.png",
                 height: 200,
                 width: 200,
               ),
